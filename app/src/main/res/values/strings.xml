@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakeAPicture</string>
+    <string name="i_wan_t_to_take_a_picture">I wan\'t to take a picture</string>
+    <string name="you_want_to_recup_pik">You Want to recup pik?</string>
+</resources>
